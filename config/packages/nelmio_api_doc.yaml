@@ -1,0 +1,9 @@
+nelmio_api_doc:
+  documentation:
+    info:
+      title: CoverManager test app - cm_university
+      description: RESTful API for cm_university concept.
+      version: 1.0.0
+    areas:
+        default:
+            path_patterns: [ /api/ ]
